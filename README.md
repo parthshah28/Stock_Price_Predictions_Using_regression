@@ -16,3 +16,4 @@
 
 Check the list of S&P 500 companies here: https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
 
+![](https://github.com/parthshah28/Stock_Price_Predictions_Using_regression/blob/main/images/1.mp4)
