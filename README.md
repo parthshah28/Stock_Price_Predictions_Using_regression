@@ -39,10 +39,10 @@ I defined a Function to concatenate the date, stock price, and volume in one dat
 ### B. Feature Scaling
 For scaling, MinMaxScaler has been applied.
 
-#### to understand it in more detail go to [Stock_Price_Predictions_Using_regression](https://github.com/parthshah28/Stock_Price_Predictions_Using_regression)
+#### to understand it in more detail go to [Stock_Price_Predictions_Using_regression & LSTM](https://github.com/parthshah28/Stock_Price_Predictions_Using_regression)
 
 ## Applied Algorithm and Score:
-I used Ridge Linear Regresssion(L2 Regularization).
+I have used Ridge Linear Regresssion(L2 Regularization).
 Linear Regression Score:  0.7950028030821767
 
 ![](https://github.com/parthshah28/Stock_Price_Predictions_Using_regression/blob/main/images/captured%201.gif)
